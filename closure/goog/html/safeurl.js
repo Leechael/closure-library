@@ -392,7 +392,6 @@ goog.html.SafeUrl.TYPE_MARKER_GOOG_HTML_SECURITY_PRIVATE_ = {};
  *
  * @param {string} url The string to initialize the SafeUrl object with.
  * @return {!goog.html.SafeUrl} The initialized SafeUrl object.
- * @package
  */
 goog.html.SafeUrl.createSafeUrlSecurityPrivateDoNotAccessOrElse = function(
     url) {
